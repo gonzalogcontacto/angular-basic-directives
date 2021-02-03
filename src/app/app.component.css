@@ -1,0 +1,22 @@
+
+.hide {
+    display: none;
+}
+
+.border{
+    border: 1px solid blue;
+    background-color: black;
+}
+
+.color{
+    color: 'white';
+}
+
+.miClase{
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    max-width: 200px;
+    border: 1px solid black;
+}
